@@ -1,7 +1,7 @@
 # Employee Information Sorter
 
 ## Overview
-This program implements a **filed-based Merge Sort** algorithm to sort an employee information file based on a user-specified field. The file is a **tab-separated values** format containing employee records.
+This program implements a **file-based Merge Sort** algorithm to sort an employee information file based on a user-specified field. The file is a **tab-separated values** format containing employee records.
 
 <details>
   <summary>📂 Employee File Format</summary>
